@@ -5,6 +5,8 @@ and only basic features. It currently only implements [LAION aesthetic classifie
 
 *Tutorial blog post coming soon*
 
+_This codebase is just for educational purposes, another codebase for scalable training coming soon through CarperAI_
+
 ## Installation
 ```
 git clone https://github.com/tmabraham/ddpo-pytorch.git
